@@ -40,11 +40,20 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+                                                                                                                                                                   <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/46b7b02f-c4e9-477c-98a6-7fc688aa4268" />
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 Tabulation:1
+
+<img width="1475" height="888" alt="image" src="https://github.com/user-attachments/assets/76054a2b-c0eb-46de-93d9-c5c1ea622d15" />
+
 	
 Cross connection: CIRCUIT DIAGRAM:
 
+<img width="1600" height="897" alt="image" src="https://github.com/user-attachments/assets/7676e007-537b-4525-8568-b9e74b9658fd" />
+
 Tabulation:2
+<img width="1451" height="794" alt="image" src="https://github.com/user-attachments/assets/e6a608f6-f99e-4743-a7b1-00211b952472" />
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
